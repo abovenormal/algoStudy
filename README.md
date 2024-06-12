@@ -20,5 +20,5 @@
 
 |   문제    |    레벨    |  석우   |   상원    |  지민     |  수민   |   세환    |  
 |:-------:|:--------:|:-----:|:-------:|:-------:|:-----:|:-------:|   
-| 원판 돌리기 |   Gold 2   | [-](https://github.com/abovenormal/algoStudy/blob/main/%EC%9E%A5%EC%84%9D%EC%9A%B0/%EC%BD%94%ED%85%8CG2_%EC%9B%90%ED%8C%90%EB%8F%8C%EB%A6%AC%EA%B8%B0.py) |  [-]()  |  [Code](https://github.com/abovenormal/algoStudy/commit/773d4c3a6d165d1e9ab70c4efa8508a3cc13e9a2)  | [-]() |[-]() |
+| 원판 돌리기 |   Gold 2   | [Code](https://github.com/abovenormal/algoStudy/blob/main/%EC%9E%A5%EC%84%9D%EC%9A%B0/%EC%BD%94%ED%85%8CG2_%EC%9B%90%ED%8C%90%EB%8F%8C%EB%A6%AC%EA%B8%B0.py) |  [-]()  |  [Code](https://github.com/abovenormal/algoStudy/commit/773d4c3a6d165d1e9ab70c4efa8508a3cc13e9a2)  | [-]() |[-]() |
 </details>
