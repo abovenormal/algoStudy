@@ -30,5 +30,5 @@
 
 |   문제    |    레벨    |  석우   |   상원    |  지민     |  수민   |   세환    |  
 |:-------:|:--------:|:-----:|:-------:|:-------:|:-----:|:-------:|   
-| 야구 |   Gold 4   | [Code](https://github.com/abovenormal/algoStudy/blob/main/%EC%9E%A5%EC%84%9D%EC%9A%B0/%EC%BD%94%ED%85%8C17281.py) |  [-]()  |  [-]()  | [-]() |[-]() |
+| 야구 |   Gold 4   | [Code](https://github.com/abovenormal/algoStudy/blob/main/%EC%9E%A5%EC%84%9D%EC%9A%B0/%EC%BD%94%ED%85%8C17281.py) |  [-]()  |  [-]()  | [-]() |[Code](https://github.com/abovenormal/algoStudy/blob/main/%ED%95%9C%EC%84%B8%ED%99%98/Main_%EC%95%BC%EA%B5%AC_17281_0613.java) |
 </details>
