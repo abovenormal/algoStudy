@@ -20,7 +20,7 @@
 
 |   문제    |    레벨    |  석우   |   상원    |  지민     |  수민   |   세환    |  
 |:-------:|:--------:|:-----:|:-------:|:-------:|:-----:|:-------:|   
-| 원판 돌리기 |   Gold 2   | [Code](https://github.com/abovenormal/algoStudy/blob/main/%EC%9E%A5%EC%84%9D%EC%9A%B0/%EC%BD%94%ED%85%8CG2_%EC%9B%90%ED%8C%90%EB%8F%8C%EB%A6%AC%EA%B8%B0.py) |  [-]()  |  [Code](https://github.com/abovenormal/algoStudy/commit/773d4c3a6d165d1e9ab70c4efa8508a3cc13e9a2)  | [-]() |[Code](https://github.com/abovenormal/algoStudy/blob/main/%ED%95%9C%EC%84%B8%ED%99%98/Main_%EC%9B%90%ED%8C%90%EB%8F%8C%EB%A6%AC%EA%B8%B0.java) |
+| 원판 돌리기 |   Gold 2   | [Code](https://github.com/abovenormal/algoStudy/blob/main/%EC%9E%A5%EC%84%9D%EC%9A%B0/%EC%BD%94%ED%85%8CG2_%EC%9B%90%ED%8C%90%EB%8F%8C%EB%A6%AC%EA%B8%B0.py) |  [Code](https://github.com/abovenormal/algoStudy/blob/main/%EC%84%9C%EC%83%81%EC%9B%90/%EB%B0%B1%EC%A4%80%20%EC%9B%90%ED%8C%90%EB%8F%8C%EB%A6%AC%EA%B8%B0.py)  |  [Code](https://github.com/abovenormal/algoStudy/commit/773d4c3a6d165d1e9ab70c4efa8508a3cc13e9a2)  | [-]() |[Code](https://github.com/abovenormal/algoStudy/blob/main/%ED%95%9C%EC%84%B8%ED%99%98/Main_%EC%9B%90%ED%8C%90%EB%8F%8C%EB%A6%AC%EA%B8%B0.java) |
 </details>
 
 <details markdown = "1">
@@ -30,5 +30,5 @@
 
 |   문제    |    레벨    |  석우   |   상원    |  지민     |  수민   |   세환    |  
 |:-------:|:--------:|:-----:|:-------:|:-------:|:-----:|:-------:|   
-| 야구 |   Gold 4   | [Code](https://github.com/abovenormal/algoStudy/blob/main/%EC%9E%A5%EC%84%9D%EC%9A%B0/%EC%BD%94%ED%85%8C17281.py) |  [-]()  |  [-]()  | [-]() |[Code](https://github.com/abovenormal/algoStudy/blob/main/%ED%95%9C%EC%84%B8%ED%99%98/Main_%EC%95%BC%EA%B5%AC_17281_0613.java) |
+| 야구 |   Gold 4   | [Code](https://github.com/abovenormal/algoStudy/blob/main/%EC%9E%A5%EC%84%9D%EC%9A%B0/%EC%BD%94%ED%85%8C17281.py) |  [Code](https://github.com/abovenormal/algoStudy/blob/main/%EC%84%9C%EC%83%81%EC%9B%90/%EB%B0%B1%EC%A4%80%20%E2%9A%BE.py)  |  [-]()  | [-]() |[Code](https://github.com/abovenormal/algoStudy/blob/main/%ED%95%9C%EC%84%B8%ED%99%98/Main_%EC%95%BC%EA%B5%AC_17281_0613.java) |
 </details>
