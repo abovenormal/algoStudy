@@ -40,5 +40,5 @@
 
 |   문제    |    레벨    |  석우   |   상원    |  지민     |  수민   |   세환    |  
 |:-------:|:--------:|:-----:|:-------:|:-------:|:-----:|:-------:|   
-| 야구 |   Gold 4   | [Code](https://github.com/abovenormal/algoStudy/blob/main/%EC%9E%A5%EC%84%9D%EC%9A%B0/%EC%BD%94%ED%85%8C_%ED%83%9D%EB%B0%B0%EB%B0%B0%EB%8B%AC%EA%B3%BC%EC%88%98%EA%B1%B0%ED%95%98%EA%B8%B0.py) |  [Code]()  |  [Code]()  | [-]() |[Code]() |
+| 택배 배달과 수거하기 |   LV 2   | [Code](https://github.com/abovenormal/algoStudy/blob/main/%EC%9E%A5%EC%84%9D%EC%9A%B0/%EC%BD%94%ED%85%8C_%ED%83%9D%EB%B0%B0%EB%B0%B0%EB%8B%AC%EA%B3%BC%EC%88%98%EA%B1%B0%ED%95%98%EA%B8%B0.py) |  [Code]()  |  [Code]()  | [-]() |[Code]() |
 </details>
