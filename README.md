@@ -46,7 +46,7 @@
 <details markdown = "1">
   <summary> <h3> ✅ 6월 17일 </h3> </summary>
 
-> **문제 링크**: [https://www.acmicpc.net/problem/18809)
+> **문제 링크**: https://www.acmicpc.net/problem/18809
 
 |   문제    |    레벨    |    석우    |   상원    |    지민    |    세환    |  
 |:-------:|:--------:|:--------:|:-------:|:--------:|:--------:|  
