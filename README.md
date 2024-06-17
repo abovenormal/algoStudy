@@ -46,9 +46,9 @@
 <details markdown = "1">
   <summary> <h3> ✅ 6월 17일 </h3> </summary>
 
-> **문제 링크**: https://www.acmicpc.net/problem/18809
+> **문제 링크**: [백준_Gaaaaaaaaaarden](https://www.acmicpc.net/problem/18809)
 
 |   문제    |    레벨    |    석우    |   상원    |    지민    |    세환    |  
 |:-------:|:--------:|:--------:|:-------:|:--------:|:--------:|  
-| 택배 배달과 수거하기 |   LV 2   | [Code]() |  [Code]()  | [Code]() | [Code](https://github.com/abovenormal/algoStudy/blob/main/%ED%95%9C%EC%84%B8%ED%99%98/Main_%EB%B0%B1%EC%A4%80_%EA%B0%80%E3%85%8F%E3%85%8F%EB%93%A0_0617%20.java) |
+| Gaaaaaaaaaarden |   Gold 1   | [Code]() |  [Code]()  | [Code]() | [Code](https://github.com/abovenormal/algoStudy/blob/main/%ED%95%9C%EC%84%B8%ED%99%98/Main_%EB%B0%B1%EC%A4%80_%EA%B0%80%E3%85%8F%E3%85%8F%EB%93%A0_0617%20.java) |
 </details>
