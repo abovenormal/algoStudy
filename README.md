@@ -52,3 +52,24 @@
 |:-------:|:--------:|:--------:|:-------:|:--------:|:--------:|  
 | Gaaaaaaaaaarden |   Gold 1   | [Code]() |  [Code]()  | [Code]() | [Code](https://github.com/abovenormal/algoStudy/blob/main/%ED%95%9C%EC%84%B8%ED%99%98/Main_%EB%B0%B1%EC%A4%80_%EA%B0%80%E3%85%8F%E3%85%8F%EB%93%A0_0617%20.java) |
 </details>
+
+<details markdown = "1">
+  <summary> <h3> ✅ 6월 18일 </h3> </summary>
+
+> **문제 링크**: [백준_이분 그래프](https://www.acmicpc.net/problem/1707)
+
+|   문제    |    레벨    |    석우    |   상원    |    지민    |    세환    |  
+|:-------:|:--------:|:--------:|:-------:|:--------:|:--------:|  
+| 이분 그래프 |   Gold 1   | [Code]() |  [Code]()  | [Code]() | [Code](https://github.com/abovenormal/algoStudy/blob/main/%ED%95%9C%EC%84%B8%ED%99%98/Main_%EB%B0%B1%EC%A4%80_%EC%9D%B4%EB%B6%84%EA%B7%B8%EB%9E%98%ED%94%84.java) |
+</details>
+
+
+<details markdown = "1">
+  <summary> <h3> ✅ 6월 19일 </h3> </summary>
+
+> **문제 링크**: []()
+
+|   문제    |    레벨    |    석우    |   상원    |    지민    |    세환    |  
+|:-------:|:--------:|:--------:|:-------:|:--------:|:--------:|  
+| 공란 |   Gold 1   | [Code]() |  [Code]()  | [Code]() | [Code]() |
+</details>
