@@ -60,7 +60,7 @@
 
 |   문제    |    레벨    |    석우    |   상원    |    지민    |    세환    |  
 |:-------:|:--------:|:--------:|:-------:|:--------:|:--------:|  
-| 이분 그래프 |   Gold 1   | [Code]() |  [Code]()  | [Code]() | [Code](https://github.com/abovenormal/algoStudy/blob/main/%ED%95%9C%EC%84%B8%ED%99%98/Main_%EB%B0%B1%EC%A4%80_%EC%9D%B4%EB%B6%84%EA%B7%B8%EB%9E%98%ED%94%84.java) |
+| 이분 그래프 |   Gold 4   | [Code]() |  [Code]()  | [Code]() | [Code](https://github.com/abovenormal/algoStudy/blob/main/%ED%95%9C%EC%84%B8%ED%99%98/Main_%EB%B0%B1%EC%A4%80_%EC%9D%B4%EB%B6%84%EA%B7%B8%EB%9E%98%ED%94%84.java) |
 </details>
 
 
