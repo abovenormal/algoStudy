@@ -16,25 +16,25 @@ for _ in range(m):
 
 s, e = map(int,input().split())
 
-def bfs(s, e, graph):
-    visited = [False for _ in range(n+1)]
-    q = deque([[s, 0]])
-    e_dist = []
+def bfs(s, e, graph, visited):
+    q = deque([[s, 0, [s]]])
     while q:
-        node, dist = q.popleft()
+        node, dist, route = q.popleft()
+        print(node, dist, route)
+        visited[node] = True
         if node == e:
-            e_dist.append(dist)
-            if len(e_dist) > 2:
-                visited[node] = True
-            else:
-                visited[node] = False
-        else:
-            visited[node] = True
+            return dist, route
         for nextnode in graph[node]:
             if not visited[nextnode]:
-                q.append([nextnode,dist+1])
+                nextroute = route.copy()
+                nextroute.append(nextnode)
+                q.append([nextnode,dist+1,nextroute])
 
-    return e_dist
+visited = [False for _ in range(n+1)]
+se_dist, se_route = bfs(s, e, graph, visited)
+visited = [False for _ in range(n+1)]
+for i in se_route[1:-1]:
+    visited[i] = True
+es_dist, es_route = bfs(e, s, graph, visited)
 
-e_dist = bfs(s, e, graph)
-print(e_dist[0] + e_dist[1])
+print(se_route, se_dist + es_dist)
