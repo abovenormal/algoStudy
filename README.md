@@ -46,12 +46,9 @@
 <details markdown = "1">
   <summary> <h3> ✅ 6월 17일 </h3> </summary>
 
-> **문제 링크**: [백준_Gaaaaaaaaaarden](https://www.acmicpc.net/problem/18809)
+> **문제 링크**: [https://www.acmicpc.net/problem/18809)
 
-|   문제    |    레벨    |    석우    |   상원    |    지민    |    세환    |  
-|:-------:|:---책](https://www.acmicpc.net/problem/22868)
-
-|   문제    |    레벨    |    석우    |   상원    |    지민    |    세환    |  
-|:-------:|:--------:|:--------:|:-------:|:--------:|:--------:|  
-| 산 |   Gold 3   | [Code](https://github.com/abovenormal/algoStudy/blob/main/%EC%9E%A5%EC%84%9D%EC%9A%B0/%EC%98%A8%EB%9D%BC%EC%9D%B8/BOJ22868_%EC%82%B0%EC%B1%85.py) |  [Code]()  | [Code]() | [Code]() |
+|   문제    |    레벨    |  석우   |   상원    |  지민     |    세환    |  
+|:-------:|:--------:|:-----:|:-------:|:-------:|:-----:|  
+| gaaaaarden |   Gold 1   | [Code](https://github.com/abovenormal/algoStudy/blob/main/%EC%9E%A5%EC%84%9D%EC%9A%B0/%EC%98%A8%EB%9D%BC%EC%9D%B8/%EC%BD%94%ED%85%8CG1_gaaarden.py) |  [Code]()  |  [Code]()  |[Code]() |
 </details>
