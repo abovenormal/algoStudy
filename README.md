@@ -60,7 +60,7 @@
 
 |   문제    |    레벨    |  석우   |   상원    |  지민     |    세환    |  
 |:-------:|:--------:|:-----:|:-------:|:-------:|:-----:|  
-| 이분그래프 |   Gold 4   | [Code](https://github.com/abovenormal/algoStudy/blob/main/%EC%9E%A5%EC%84%9D%EC%9A%B0/%EC%98%A8%EB%9D%BC%EC%9D%B8/%EC%BD%94%ED%85%8CG4_%EC%9D%B4%EB%B6%84%EA%B7%B8%EB%9E%98%ED%94%84.py) |  [Code]()  |  [Code]()  |[Code]() |
+| 이분그래프 |   Gold 4   | [Code](https://github.com/abovenormal/algoStudy/blob/main/%EC%9E%A5%EC%84%9D%EC%9A%B0/%EC%98%A8%EB%9D%BC%EC%9D%B8/%EC%BD%94%ED%85%8CG4_%EC%9D%B4%EB%B6%84%EA%B7%B8%EB%9E%98%ED%94%84.py) |  [Code]()  |  [Code](https://github.com/abovenormal/algoStudy/commit/ce1644e0395412dc61a1de805aac140866b97e12)  |[Code]() |
 </details>
 
 
@@ -71,5 +71,5 @@
 
 |   문제    |    레벨    |  석우   |   상원    |  지민     |    세환    |  
 |:-------:|:--------:|:-----:|:-------:|:-------:|:-----:|  
-| 산책 |   Gold 3   | [Code](https://github.com/abovenormal/algoStudy/blob/main/%EC%9E%A5%EC%84%9D%EC%9A%B0/%EC%98%A8%EB%9D%BC%EC%9D%B8/BOJ22868_%EC%82%B0%EC%B1%85.py) |  [Code]()  |  [Code]()  |[Code]() |
+| 산책 |   Gold 3   | [Code](https://github.com/abovenormal/algoStudy/blob/main/%EC%9E%A5%EC%84%9D%EC%9A%B0/%EC%98%A8%EB%9D%BC%EC%9D%B8/BOJ22868_%EC%82%B0%EC%B1%85.py) |  [Code]()  |  [Code](https://github.com/abovenormal/algoStudy/commit/7f2ead3d5b4506e1a80a51f3a440f229a5ce0d31)  |[Code]() |
 </details>
