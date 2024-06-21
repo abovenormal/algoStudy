@@ -85,7 +85,7 @@
 </details>
 
 <details markdown = "1">
-  <summary> <h3> ✅ 6월 20일 </h3> </summary>
+  <summary> <h3> ✅ 6월 21일 </h3> </summary>
 
 > **문제 링크**: [치킨 배달](https://www.acmicpc.net/problem/15686)
 
