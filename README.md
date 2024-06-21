@@ -81,7 +81,7 @@
 
 |   문제    |    레벨    |  석우   |   상원    |  지민     |    세환    |  
 |:-------:|:--------:|:-----:|:-------:|:-------:|:-----:|  
-| 우체국 |   Gold 4   | [Code](https://github.com/abovenormal/algoStudy/blob/main/%EC%9E%A5%EC%84%9D%EC%9A%B0/%EC%98%A8%EB%9D%BC%EC%9D%B8/BOJ2141_%EC%9A%B0%EC%B2%B4%EA%B5%AD.py) |  [Code]()  |  [Code](https://github.com/abovenormal/algoStudy/commit/7f2ead3d5b4506e1a80a51f3a440f229a5ce0d31)  |[Code]() |
+| 우체국 |   Gold 4   | [Code](https://github.com/abovenormal/algoStudy/blob/main/%EC%9E%A5%EC%84%9D%EC%9A%B0/%EC%98%A8%EB%9D%BC%EC%9D%B8/BOJ2141_%EC%9A%B0%EC%B2%B4%EA%B5%AD.py) |  [Code]()  |  [Code](https://github.com/abovenormal/algoStudy/commit/7249808256728b12a6bf1126978b2f037661bcc7)  |[Code]() |
 </details>
 
 <details markdown = "1">
@@ -91,7 +91,7 @@
 
 |   문제    |    레벨    |  석우   |   상원    |  지민     |    세환    |  
 |:-------:|:--------:|:-----:|:-------:|:-------:|:-----:|  
-| 치킨배달 |   Gold 5   | [Code]() |  [Code]()  |  [Code]()  |[Code]() |
+| 치킨배달 |   Gold 5   | [Code]() |  [Code]()  |  [Code](https://github.com/abovenormal/algoStudy/commit/8d40db14d31db77117dc323921ad49aa705d6cbd)  |[Code]() |
 </details>
 
 
