@@ -50,7 +50,7 @@
 
 |   문제    |    레벨    |  석우   |   상원    |  지민     |    세환    |  
 |:-------:|:--------:|:-----:|:-------:|:-------:|:-----:|  
-| gaaaaarden |   Gold 1   | [Code](https://github.com/abovenormal/algoStudy/blob/main/%EC%9E%A5%EC%84%9D%EC%9A%B0/%EC%98%A8%EB%9D%BC%EC%9D%B8/%EC%BD%94%ED%85%8CG1_gaaarden.py) |  [Code]()  |  [Code]()  |[Code]() |
+| gaaaaarden |   Gold 1   | [Code](https://github.com/abovenormal/algoStudy/blob/main/%EC%9E%A5%EC%84%9D%EC%9A%B0/%EC%98%A8%EB%9D%BC%EC%9D%B8/%EC%BD%94%ED%85%8CG1_gaaarden.py) |  [Code]()  |  [Code]()  |[Code](https://github.com/abovenormal/algoStudy/blob/main/%ED%95%9C%EC%84%B8%ED%99%98/Main_%EB%B0%B1%EC%A4%80_%EA%B0%80%E3%85%8F%E3%85%8F%EB%93%A0_0617%20.java) |
 </details>
 
 <details markdown = "1">
@@ -60,18 +60,18 @@
 
 |   문제    |    레벨    |  석우   |   상원    |  지민     |    세환    |  
 |:-------:|:--------:|:-----:|:-------:|:-------:|:-----:|  
-| 이분그래프 |   Gold 4   | [Code](https://github.com/abovenormal/algoStudy/blob/main/%EC%9E%A5%EC%84%9D%EC%9A%B0/%EC%98%A8%EB%9D%BC%EC%9D%B8/%EC%BD%94%ED%85%8CG4_%EC%9D%B4%EB%B6%84%EA%B7%B8%EB%9E%98%ED%94%84.py) |  [Code]()  |  [Code](https://github.com/abovenormal/algoStudy/commit/ce1644e0395412dc61a1de805aac140866b97e12)  |[Code]() |
+| 이분그래프 |   Gold 4   | [Code](https://github.com/abovenormal/algoStudy/blob/main/%EC%9E%A5%EC%84%9D%EC%9A%B0/%EC%98%A8%EB%9D%BC%EC%9D%B8/%EC%BD%94%ED%85%8CG4_%EC%9D%B4%EB%B6%84%EA%B7%B8%EB%9E%98%ED%94%84.py) |  [Code]()  |  [Code](https://github.com/abovenormal/algoStudy/commit/ce1644e0395412dc61a1de805aac140866b97e12)  |[Code](https://github.com/abovenormal/algoStudy/blob/main/%ED%95%9C%EC%84%B8%ED%99%98/Main_%EB%B0%B1%EC%A4%80_%EC%9D%B4%EB%B6%84%EA%B7%B8%EB%9E%98%ED%94%84.java) |
 </details>
 
 
 <details markdown = "1">
   <summary> <h3> ✅ 6월 19일 </h3> </summary>
 
-> **문제 링크**: [https://www.acmicpc.net/problem/22868)
+> **문제 링크**: [산책](https://www.acmicpc.net/problem/22868)
 
 |   문제    |    레벨    |  석우   |   상원    |  지민     |    세환    |  
 |:-------:|:--------:|:-----:|:-------:|:-------:|:-----:|  
-| 산책 |   Gold 3   | [Code](https://github.com/abovenormal/algoStudy/blob/main/%EC%9E%A5%EC%84%9D%EC%9A%B0/%EC%98%A8%EB%9D%BC%EC%9D%B8/BOJ22868_%EC%82%B0%EC%B1%85.py) |  [Code]()  |  [Code](https://github.com/abovenormal/algoStudy/commit/7f2ead3d5b4506e1a80a51f3a440f229a5ce0d31)  |[Code]() |
+| 산책 |   Gold 3   | [Code](https://github.com/abovenormal/algoStudy/blob/main/%EC%9E%A5%EC%84%9D%EC%9A%B0/%EC%98%A8%EB%9D%BC%EC%9D%B8/BOJ22868_%EC%82%B0%EC%B1%85.py) |  [Code]()  |  [Code](https://github.com/abovenormal/algoStudy/commit/7f2ead3d5b4506e1a80a51f3a440f229a5ce0d31)  |[Code](https://github.com/abovenormal/algoStudy/blob/main/%ED%95%9C%EC%84%B8%ED%99%98/Main_%EC%82%B0%EC%B1%85.java) |
 </details>
 
 <details markdown = "1">
@@ -81,7 +81,7 @@
 
 |   문제    |    레벨    |  석우   |   상원    |  지민     |    세환    |  
 |:-------:|:--------:|:-----:|:-------:|:-------:|:-----:|  
-| 우체국 |   Gold 4   | [Code](https://github.com/abovenormal/algoStudy/blob/main/%EC%9E%A5%EC%84%9D%EC%9A%B0/%EC%98%A8%EB%9D%BC%EC%9D%B8/BOJ2141_%EC%9A%B0%EC%B2%B4%EA%B5%AD.py) |  [Code]()  |  [Code](https://github.com/abovenormal/algoStudy/commit/7249808256728b12a6bf1126978b2f037661bcc7)  |[Code]() |
+| 우체국 |   Gold 4   | [Code](https://github.com/abovenormal/algoStudy/blob/main/%EC%9E%A5%EC%84%9D%EC%9A%B0/%EC%98%A8%EB%9D%BC%EC%9D%B8/BOJ2141_%EC%9A%B0%EC%B2%B4%EA%B5%AD.py) |  [Code]()  |  [Code](https://github.com/abovenormal/algoStudy/commit/7249808256728b12a6bf1126978b2f037661bcc7)  |[Code](https://github.com/abovenormal/algoStudy/blob/main/%ED%95%9C%EC%84%B8%ED%99%98/Main_%EC%9A%B0%EC%B2%B4%EA%B5%AD.java) |
 </details>
 
 <details markdown = "1">
