@@ -95,7 +95,7 @@
 </details>
 
 <details markdown = "1">
-  <summary> <h3> ✅ 6월 21일 </h3> </summary>
+  <summary> <h3> ✅ 6월 24일 </h3> </summary>
 
 > **문제 링크**: [방 번호](https://www.acmicpc.net/problem/1082)
 
