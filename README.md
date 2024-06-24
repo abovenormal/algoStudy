@@ -94,5 +94,15 @@
 | 치킨배달 |   Gold 5   | [Code]() |  [Code]()  |  [Code](https://github.com/abovenormal/algoStudy/commit/8d40db14d31db77117dc323921ad49aa705d6cbd)  |[Code](https://github.com/abovenormal/algoStudy/blob/main/%ED%95%9C%EC%84%B8%ED%99%98/Main_%EC%B9%98%ED%82%A8%EB%B0%B0%EB%8B%AC.java) |
 </details>
 
+<details markdown = "1">
+  <summary> <h3> ✅ 6월 21일 </h3> </summary>
+
+> **문제 링크**: [방 번호](https://www.acmicpc.net/problem/1082)
+
+|   문제    |    레벨    |가경|  석우   |   상원    |  지민     |    세환    |  
+|:-------:|:--------:|:--------:|:-----:|:-------:|:-------:|:-----:|  
+| 치킨배달 |   Gold 5   |  [Code]() |[Code]() |  [Code]()  |  [Code]()  |[Code]() |
+</details>
+
 
 
