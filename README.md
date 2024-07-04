@@ -101,8 +101,65 @@
 
 |   문제    |    레벨    |가경|  석우   |   상원    |  지민     |    세환    |  
 |:-------:|:--------:|:--------:|:-----:|:-------:|:-------:|:-----:|  
-| 치킨배달 |   Gold 5   |  [Code]() |[Code]() |  [Code]()  |  [Code]()  |[Code]() |
+| 방 번호 |   Gold 5   |  [Code]() |[Code]() |  [Code]()  |  [Code]()  |[Code]() |
 </details>
 
+<details markdown = "1">
+  <summary> <h3> ✅ 6월 25일 </h3> </summary>
 
+> **문제 링크**: [등차수열](https://www.acmicpc.net/problem/1994)
 
+|   문제    |    레벨    |가경|  석우   |   상원    |  지민     |    세환    |  
+|:-------:|:--------:|:--------:|:-----:|:-------:|:-------:|:-----:|  
+| 등차수열 |   Gold 1   |  [Code]() |[Code]() |  [Code]()  |  [Code]()  |[Code]() |
+</details>
+
+<details markdown = "1">
+  <summary> <h3> ✅ 6월 26일 </h3> </summary>
+
+> **문제 링크**: [가장 긴 증가하는 부분수열](https://www.acmicpc.net/problem/11053)
+
+|   문제    |    레벨    |가경|  석우   |   상원    |  지민     |    세환    |  
+|:-------:|:--------:|:--------:|:-----:|:-------:|:-------:|:-----:|  
+| 가장 긴 증가하는 부분수열 |   Silver 2   |  [Code]() |[Code]() |  [Code]()  |  [Code]()  |[Code]() |
+</details>
+
+<details markdown = "1">
+  <summary> <h3> ✅ 6월 27일 </h3> </summary>
+
+> **문제 링크**: [강의실](https://www.acmicpc.net/problem/1374)
+
+|   문제    |    레벨    |가경|  석우   |   상원    |  지민     |    세환    |  
+|:-------:|:--------:|:--------:|:-----:|:-------:|:-------:|:-----:|  
+| 강의실 |   Gold 5   |  [Code]() |[Code]() |  [Code]()  |  [Code]()  |[Code]() |
+</details>
+
+<details markdown = "1">
+  <summary> <h3> ✅ 7월 1일 </h3> </summary>
+
+> **문제 링크**: [문자열 나누기](https://www.acmicpc.net/problem/23976)
+
+|   문제    |    레벨    |가경|  석우   |   상원    |  지민     |    세환    |  
+|:-------:|:--------:|:--------:|:-----:|:-------:|:-------:|:-----:|  
+| 문자열 나누기 |   Gold 3   |  [Code]() |[Code]() |  [Code]()  |  [Code]()  |[Code]() |
+</details>
+
+<details markdown = "1">
+  <summary> <h3> ✅ 7월 2일 </h3> </summary>
+
+> **문제 링크**: [프렉탈 평면](https://www.acmicpc.net/problem/1030)
+
+|   문제    |    레벨    |가경|  석우   |   상원    |  지민     |    세환    |  
+|:-------:|:--------:|:--------:|:-----:|:-------:|:-------:|:-----:|  
+| 프렉탈 평면 |   Gold 3   |  [Code]() |[Code]() |  [Code]()  |  [Code]()  |[Code]() |
+</details>
+
+<details markdown = "1">
+  <summary> <h3> ✅ 7월 4일 </h3> </summary>
+
+> **문제 링크**: [수도배관공사](https://www.acmicpc.net/problem/2073)
+
+|   문제    |    레벨    |가경|  석우   |   상원    |  지민     |    세환    |  
+|:-------:|:--------:|:--------:|:-----:|:-------:|:-------:|:-----:|  
+| 수도배관공사 |   Gold 4   |  [Code]() |[Code]() |  [Code]()  |  [Code]()  |[Code]() |
+</details>
