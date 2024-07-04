@@ -111,7 +111,7 @@
 
 |   문제    |    레벨    |가경|  석우   |   상원    |  지민     |    세환    |  
 |:-------:|:--------:|:--------:|:-----:|:-------:|:-------:|:-----:|  
-| 등차수열 |   Gold 1   |  [Code]() |[Code]() |  [Code]()  |  [Code]()  |[Code]() |
+| 등차수열 |   Gold 1   |  [Code]() |[Code]() |  [Code]()  |  [Code](https://github.com/abovenormal/algoStudy/commit/f976e0c5cf3c11da177b88e84f10d8b1499e3c81)  |[Code]() |
 </details>
 
 <details markdown = "1">
@@ -121,7 +121,7 @@
 
 |   문제    |    레벨    |가경|  석우   |   상원    |  지민     |    세환    |  
 |:-------:|:--------:|:--------:|:-----:|:-------:|:-------:|:-----:|  
-| 가장 긴 증가하는 부분수열 |   Silver 2   |  [Code]() |[Code]() |  [Code]()  |  [Code]()  |[Code]() |
+| 가장 긴 증가하는 부분수열 |   Silver 2   |  [Code]() |[Code]() |  [Code]()  |  [Code](https://github.com/abovenormal/algoStudy/commit/0fedb211dbd73fe54b59aab0f75eb1005c97536f)  |[Code]() |
 </details>
 
 <details markdown = "1">
@@ -131,7 +131,7 @@
 
 |   문제    |    레벨    |가경|  석우   |   상원    |  지민     |    세환    |  
 |:-------:|:--------:|:--------:|:-----:|:-------:|:-------:|:-----:|  
-| 강의실 |   Gold 5   |  [Code]() |[Code]() |  [Code]()  |  [Code]()  |[Code]() |
+| 강의실 |   Gold 5   |  [Code]() |[Code]() |  [Code]()  |  [Code](https://github.com/abovenormal/algoStudy/commit/28f5e16e5d53e7088acd5bff53735d1c5c8e3f9a)  |[Code]() |
 </details>
 
 <details markdown = "1">
@@ -148,6 +148,16 @@
   <summary> <h3> ✅ 7월 2일 </h3> </summary>
 
 > **문제 링크**: [프렉탈 평면](https://www.acmicpc.net/problem/1030)
+
+|   문제    |    레벨    |가경|  석우   |   상원    |  지민     |    세환    |  
+|:-------:|:--------:|:--------:|:-----:|:-------:|:-------:|:-----:|  
+| 프렉탈 평면 |   Gold 3   |  [Code]() |[Code]() |  [Code]()  |  [Code](https://github.com/abovenormal/algoStudy/commit/c3e4038493089940dac58c988c8a7649ba9f8e48)  |[Code]() |
+</details>
+
+<details markdown = "1">
+  <summary> <h3> ✅ 7월 3일 </h3> </summary>
+
+> **문제 링크**: [최고의 팀 만들기](https://www.acmicpc.net/problem/1633)
 
 |   문제    |    레벨    |가경|  석우   |   상원    |  지민     |    세환    |  
 |:-------:|:--------:|:--------:|:-----:|:-------:|:-------:|:-----:|  
