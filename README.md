@@ -165,11 +165,11 @@
 </details>
 
 <details markdown = "1">
-  <summary> <h3> ✅ 7월 4일 </h3> </summary>
+  <summary> <h3> ✅ 7월 5일 </h3> </summary>
 
 > **문제 링크**: [수도배관공사](https://www.acmicpc.net/problem/2073)
 
 |   문제    |    레벨    |가경|  석우   |   상원    |  지민     |    세환    |  
 |:-------:|:--------:|:--------:|:-----:|:-------:|:-------:|:-----:|  
-| 수도배관공사 |   Gold 4   |  [Code]() |[Code]() |  [Code]()  |  [Code]()  |[Code]() |
+| 수도배관공사 |   Gold 4   |  [Code]() |[Code]() |  [Code]()  |  [Code]()  |[Code](https://github.com/abovenormal/algoStudy/blob/main/%ED%95%9C%EC%84%B8%ED%99%98/Main_%EC%88%98%EB%8F%84%EB%B0%B0%EA%B4%80%EA%B3%B5%EC%82%AC.java) |
 </details>
