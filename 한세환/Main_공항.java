@@ -1,9 +1,10 @@
 import java.io.*;
 import java.util.*;
 
-public class Main22 {
+public class Main {
     static int gates, plane, ans;
-    static boolean[] arr;
+    static int[] parent;
+    static boolean check;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -11,26 +12,32 @@ public class Main22 {
         gates = Integer.parseInt(br.readLine());
         plane = Integer.parseInt(br.readLine());
 
-        int smallestNo = 1;
-        arr = new boolean[gates];
+        parent = new int[gates+1];
+
+        for(int i=0;i<gates+1;i++){
+            parent[i] = i;
+        }
 
         for (int i = 0; i < plane; i++) {
             int temp = Integer.parseInt(br.readLine());
-
-            if(!arr[temp-1]){
-                arr[temp-1] = true;
-                ans++;
-            }else if (!arr[smallestNo-1]){
-                if(smallestNo<temp){
-                    arr[smallestNo-1] = true;
-                    smallestNo++;
-                    ans++;
-                }
-            }else{
-                break;
-            }
+            if(find(temp)==0) break;
+            ans++;
+            union(find(temp),find(temp)-1);
         }
 
         System.out.println(ans);
     }
+
+    public static void union(int a,int b){
+        a = find(a);
+        b = find(b);
+
+        parent[a]=b;
+    }
+
+    public static int find(int x){
+        if(parent[x]==x) return x;
+        else return parent[x]=find(parent[x]);
+    }
+
 }
